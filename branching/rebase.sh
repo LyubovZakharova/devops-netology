@@ -2,4 +2,4 @@
 # display command line options
 
 
-echo "\$@ Parameter #$count = $param"
+echo "Next parameter: $param"
